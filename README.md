@@ -1,5 +1,5 @@
-![biny（@binyouo）的暖金色复古终端：头像、macOS、TypeScript / Java、Biny Agent，以及博客 binzi.top 和官网 biny.online。](./assets/terminal.png)
+![biny（20 岁）的暖金色复古终端：头像、Biny、macOS，语言 TypeScript、Java、C++、Lua，技能 AI Agents、Memory，以及博客 binzi.top 和官网 biny.online。](./assets/terminal.png)
 
-兴趣使然者。目前在做 [Biny](https://github.com/binyouo/Biny-Agent)：本地优先、记忆优先的开发协作 Agent。
+兴趣使然者。
 
 [个人博客](https://binzi.top) · [Biny 官网](https://biny.online)
